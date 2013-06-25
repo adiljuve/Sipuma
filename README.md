@@ -1,7 +1,7 @@
 Sipuma
 ======
 
-Sistem Informasi Publikasi Karya Ilmiah Mahasiswa (Tugas Akhir 2012)
+Sistem Informasi Publikasi Karya Ilmiah Mahasiswa (My College Final Assignment 2012)
 
 ============================
 Powered by Codeigniter 2.0.3
